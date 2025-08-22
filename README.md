@@ -69,7 +69,7 @@ MOV A,D
 STA 0024H
 
 HLT
-**
+```
 ## ➤ Final Output Summary  
 
 | Operation       | Input (Example) | Result (Hex) | Result (Decimal) |
@@ -78,9 +78,13 @@ HLT
 | Subtraction     | 10, 2           | 08H          | 8                |
 | Multiplication  | 10 × 2          | 14H          | 20               |
 | Division        | 10 ÷ 2          | 05H / 00H    | 5 Quotient / 0 Remainder |
-<img width="679" height="348" alt="image" src="https://github.com/user-attachments/assets/d60bd82f-d438-4e39-ba87-9c391e30f875" />
-<img width="662" height="315" alt="image" src="https://github.com/user-attachments/assets/3f7e1818-dce8-4783-b9c7-b2628237eda1" />
-<img width="664" height="308" alt="image" src="https://github.com/user-attachments/assets/faabf232-4de2-4d53-ba9a-20e78236453f" />
+
+
+
+<img width="679" height="348" alt="image" src="https://github.com/user-attachments/assets/72034db1-02f5-450d-9cf7-201c836aadbf" />
+<img width="663" height="311" alt="image" src="https://github.com/user-attachments/assets/38a77aa5-375b-41bd-8241-7b5e1792d4ab" />
+<img width="664" height="308" alt="image" src="https://github.com/user-attachments/assets/164a09d1-8603-4765-8d36-bfc153496781" />
+<img width="662" height="315" alt="image" src="https://github.com/user-attachments/assets/179f4a51-fdf8-4417-b0ac-2e5698c669c6" />
 
 
 
