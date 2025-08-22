@@ -69,7 +69,7 @@ MOV A,D
 STA 0024H
 
 HLT
-```
+**```
 ## ➤ Final Output Summary  
 
 | Operation       | Input (Example) | Result (Hex) | Result (Decimal) |
