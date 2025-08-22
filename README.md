@@ -19,8 +19,7 @@ To perform 8-bit arithmetic operations (**Addition, Subtraction, Multiplication,
 ---
 
 ## Program with Output  
-
-**```asm
+```asm
 ; ---------- ADDITION ----------
 LDA 4150H
 MOV B,A
@@ -69,7 +68,7 @@ MOV A,D
 STA 0024H
 
 HLT
-**```
+```
 ## ➤ Final Output Summary  
 
 | Operation       | Input (Example) | Result (Hex) | Result (Decimal) |
